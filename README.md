@@ -5,8 +5,8 @@ Este projeto é um estudo focado na implementação de **Paginação (Endless Sc
 ## Preview
 
 <div>
-<img src="assets/img1.jpg" alt="drawing" style="width:200px;"/>
-<img src="assets/img2.jpg" alt="drawing" style="width:200px;"/>
+<img src="assets/img1.jpg" alt="drawing" style="width:600px;"/>
+<img src="assets/img2.jpg" alt="drawing" style="width:600px;"/>
 <div>
 
 ## 🎯 Objetivo do Projeto
